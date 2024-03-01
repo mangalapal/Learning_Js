@@ -26,6 +26,7 @@ JsUser.email = "mangla@google.com"
 JsUser.email = "mangala@microsoft.com"//this value does nat propagate
 //console.log(JsUser);
 
+//using function in object
 JsUser.greeting = function(){
     console.log("Hello Mangala pal")
 }
