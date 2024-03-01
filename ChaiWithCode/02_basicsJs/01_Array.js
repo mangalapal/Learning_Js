@@ -46,9 +46,6 @@ const mynew1 = myArr.slice(1, 3)//return the slice of array
 console.log(mynew1);//[1, 2]
 console.log("B", myArr);
 
-const mynew2 = myArr.splice(1, 3)
-console.log("C", myArr);
-console.log(mynew2);
-
-
-
+const mynew2 = myArr.splice(1, 3)//it mutate the original array and return new array
+console.log("C", myArr);//[0, 4, 5]
+console.log(mynew2);//[1, 2, 3]
