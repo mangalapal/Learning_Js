@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: grey;
+}
+
+h1{
+    font-family: Georgia;
+}
+.measurement{
+    padding: 15px;
+}
+button{
+    border: 1px solid black;
+    padding: 5px  15px;
+    border-radius: 5px;
+    margin-left: 90px;
+    background-color: black;
+    color: #ffffff;
+}
+#weight-guide{
+    padding-top: 10px;
+    margin-left: 70px;
+}
+h3{
+    margin-right: 30px;
+    font-family: Georgia;
+}
