@@ -24,3 +24,4 @@ form.addEventListener('submit', function (e){
         results.innerHTML = `<span>${bmi}</span>`;
      }
 })
+//Assignment to show the msg which is given below
